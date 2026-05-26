@@ -2,7 +2,7 @@
 I’m a backend-focused software engineer who enjoys designing scalable APIs, clean architectures, and production-ready systems. I love working on challenging problems and building things that actually get used.
 
 ## 📜Resume:
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1hIxHkaDx1qfY4w527VXrgjurYqvEtpBW/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1ELhn8XkItqnfyDcXX2Rkh-JxCu85xWsj/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-gupta-3940a0234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushigupta31052002@gmail.com) 
